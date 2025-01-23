@@ -23,15 +23,36 @@ This is an Android application built with Java using SQLite as the database. The
 ### Home Screen, Expense Editing, Category Expenses
 
 
-| ![Splash Screen](Screenshot_20230808_034211.jpg) | ![Expenses Screen](Screenshot_20230808_035454.jpg) | ![Add Income/Expense](Screenshot_20250123_125715.jpg) |
-| --- | --- | --- |
-| **Splash Screen**: The welcome screen when the app starts. | **Expenses Screen**: Displays the list of expense transactions with options to add or edit. | **Add Income**: Allows the user to add new income records. |
+## App Screenshots
+
+### Splash Screen, Expenses Screen, Add Income/Expense
+**Splash Screen**  
+The welcome screen when the app starts.  
+![Splash Screen](Screenshot_20230808_034211.jpg)
+
+**Expenses Screen**  
+Displays the list of expense transactions with options to add or edit.  
+![Expenses Screen](Screenshot_20230808_035454.jpg)
+
+**Add Income/Expense**  
+Allows the user to add new income or expense records.  
+![Add Income/Expense](Screenshot_20250123_125715.jpg)
+
+---
 
 ### Add Expense, Add Income/Expense Category, Home Screen
+**Edit**  
+Interface to edit an expense or income, including selecting categories and entering amounts.  
+![Edit Screen](Screenshot_20230808_034315.jpg)
 
-| ![Edit Screen ](Screenshot_20230808_034315.jpg) | ![Add Income/Expense Category](Screenshot_20250123_125656.jpg) | ![Home Screen](Screenshot_20230808_034215.jpg) |
-| --- | --- | --- |
-| **Edit **: Interface to edit an expense or income, including selecting categories and entering amounts. | **Add Income/Expense Category**: Allows users to add custom categories for income and expenses. | **Home Screen**: Displays the balance, total income, and expenses, along with options to add new transactions. |
+**Add Income/Expense Category**  
+Allows users to add custom categories for income and expenses.  
+![Add Income/Expense Category](Screenshot_20250123_125656.jpg)
+
+**Home Screen**  
+Displays the balance, total income, and expenses, along with options to add new transactions.  
+![Home Screen](Screenshot_20230808_034215.jpg)
+
 
 
 ## Class Structure
