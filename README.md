@@ -28,7 +28,7 @@ This is an Android application built with Java using SQLite as the database. The
 
 ### Splash Screen, Income Categories, Main Screen
 
-| ![Splash Screen](https://via.placeholder.com/150) | ![Income Categories](https://via.placeholder.com/150) | ![Main Screen](https://via.placeholder.com/150) |
+| ![Splash Screen](Screenshot_20230808_034211.jpg) | ![Income Categories](https://via.placeholder.com/150) | ![Main Screen](https://via.placeholder.com/150) |
 | --- | --- | --- |
 | **Splash Screen**: The welcome screen when the app starts. | **Income Categories**: Allows users to track different sources of income like salary, profit, and gifts. | **Main Screen**: Displays the balance and detailed transactions. |
 
