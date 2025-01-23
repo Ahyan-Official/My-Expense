@@ -22,15 +22,17 @@ This is an Android application built with Java using SQLite as the database. The
 
 ### Home Screen, Expense Editing, Category Expenses
 
-| ![Home Screen](https://via.placeholder.com/150) | ![Expense Editing](https://via.placeholder.com/150) | ![Category Expenses](https://via.placeholder.com/150) |
-| --- | --- | --- |
-| **Home Screen**: Displays the balance, total income, and expenses, along with options to add new transactions. | **Expense Editing**: The app allows users to edit existing expense records, including changing the category and amount. | **Category Expenses**: The app organizes expenses into categories like "Bills," "Shopping," and "Health." |
 
-### Splash Screen, Income Categories, Main Screen
-
-| ![Splash Screen](Screenshot_20230808_034211.jpg) | ![Income Categories](https://via.placeholder.com/150) | ![Main Screen](https://via.placeholder.com/150) |
+| ![Splash Screen](Screenshot_20230808_034211.jpg) | ![Expenses Screen](Screenshot_20230808_035454.jpg) | ![Add Income/Expense](Screenshot_20250123_125715.jpg) |
 | --- | --- | --- |
-| **Splash Screen**: The welcome screen when the app starts. | **Income Categories**: Allows users to track different sources of income like salary, profit, and gifts. | **Main Screen**: Displays the balance and detailed transactions. |
+| **Splash Screen**: The welcome screen when the app starts. | **Expenses Screen**: Displays the list of expense transactions with options to add or edit. | **Add Income**: Allows the user to add new income records. |
+
+### Add Expense, Add Income/Expense Category, Home Screen
+
+| ![Edit Screen ](Screenshot_20230808_034315.jpg) | ![Add Income/Expense Category](Screenshot_20250123_125656.jpg) | ![Home Screen](Screenshot_20230808_034215.jpg) |
+| --- | --- | --- |
+| **Edit **: Interface to edit an expense or income, including selecting categories and entering amounts. | **Add Income/Expense Category**: Allows users to add custom categories for income and expenses. | **Home Screen**: Displays the balance, total income, and expenses, along with options to add new transactions. |
+
 
 ## Class Structure
 
